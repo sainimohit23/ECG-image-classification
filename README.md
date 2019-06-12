@@ -6,4 +6,4 @@ Here is my solution to [Physionet Challenge 2017](https://physionet.org/challeng
 * Model attained ~93% accuracy on all 4 classes.
 * Model attained ~99% accuracy for classification of atrial fibrillation(AF) from other classes.
 
-Preprocessed data can be downloaded from here: https://www.kaggle.com/mohitsaini23/ecgdata
+Preprocessed data can be downloaded from here: https://drive.google.com/open?id=1Z0gWQgFgxuXIwjBpNHaS1J8rGbLAJvCM
